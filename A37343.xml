@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration for Ireland, or no declaration the way to reduce that kingdom to the obedience of the crown of England. With reasons wherefore the despoiled Protestants should receive some reparation out of the forfeited lands of the Irish Papists now in rebellion. Licensed Spetember 2. 1689. J.F.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37343</idno>
+            <idno type="STC">Wing D578</idno>
+            <idno type="STC">ESTC R215265</idno>
+            <idno type="EEBO-CITATION">99827186</idno>
+            <idno type="PROQUEST">99827186</idno>
+            <idno type="VID">31602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1905:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration for Ireland, or no declaration the way to reduce that kingdom to the obedience of the crown of England. With reasons wherefore the despoiled Protestants should receive some reparation out of the forfeited lands of the Irish Papists now in rebellion. Licensed Spetember 2. 1689. J.F.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by Rich. Janeway in Queens-Head-Ally in Pater-Noster-Row,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1690 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:31602:1"/>
+            <pb facs="tcp:31602:1" rendition="simple:additions"/>
+            <head>A <hi>Declaration for Ireland,</hi> Or no DECLARATION, The way to reduce that Kingdom to the Obedience of the Crown of <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">With Reaſons wherefore the Deſpoiled Proteſtants ſhould receive ſome Reparation out of the Forfeited Lands of the <hi>Iriſh</hi> Papiſts now in Rebellion.</head>
+            <div type="license">
+               <p>Licenſed</p>
+               <closer>
+                  <date>
+                     <hi>September</hi> 2. 1689.</date> 
+                  <signed>J. F.</signed>
+               </closer>
+            </div>
+            <div type="statement">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ACcording to your deſire, I herein freely give you my thought of that great Queſtion which ſo much concerns the King, his Government, and the Proteſtant Intereſt, which is the readieſt way to reduce the Kingdom of <hi>Ireland, Is a Declaration, or no Declaration?</hi> I<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a De<g ref="char:EOLhyphen"/>claration, ſhall it conſiſt all of Terms or Tenders of Grace and Favour on laying down of Arms, which ſeems to have obtained the Approbation of ſome? Or ſhall there be inſtances of Juſtice made, by excepting the chiefeſt and moſt notorious of thoſe of the <hi>Iriſh</hi> Papiſts now in Rebellion? which ſeems to be the general ſenſe and humble deſires of the Proteſtant Lords and Gentlemen of <hi>Ireland.</hi>
+               </p>
+               <p>And I humbly conceive, with ſubmiſſion to better Judgments, and the reſolves of our Superiors, that a Declaration is neceſſary for theſe Reaſons.</p>
+               <p>Firſt, If no Declaration go with the Army, this will make all the whole Nation of the <hi>Iriſh,</hi> as well thoſe who are not of the Army, as thoſe who are, alike deſperate, and that by no means ſeems adviſable, for they are too ma<g ref="char:EOLhyphen"/>ny. They will be all deſperate, becauſe by the cunning of the Prieſts they have all been involv'd in Guilt, all Arm'd that came to Maſs, and all in<g ref="char:EOLhyphen"/>gag'd in the Plundering and Robbing of the Proteſtants; and being thus con<g ref="char:EOLhyphen"/>ſerous to themſelves, and perſwaded by the Prieſts and Gentry, that there is no Mercy to be expected for them, there being no aſſurance of protection or incouragement for them to continue in their Dwellings and Occupations. Hereupon the Husbandman, Ploughman and Labourer, with what little Corn or Cattle they have will fly before the <hi>Engliſh</hi> Army into the <hi>Iriſh</hi> Quarters, and unto Bogs and Mountains, and ſuch great numbers betake themſelves to the Towns (as in the former War) that by their multitude a Famine will ſoon come amongſt them; and that probably as heretofore be followed with a Plague; The conſequence of which will be not only the pre<g ref="char:EOLhyphen"/>ſent waſting and depopulating of the Countrey; but for many years the ſame will continue Untill'd, and there will be a ſcarcity of Corn, for tis the <hi>Iriſh</hi> that do Plough three parts of four, if not more of the three Provinces, and one half at leaſt of the fourth; and 'tis but ſome of the beſt of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> in the Countrey do Plough only for their own uſe, and the meaner ſort of Proteſtants cannot fare ſo hardly (as the <hi>Iriſh,</hi> who live upon Milks and Potatoes,) as to be able to raiſe any Rent by Ploughing, Corn being ſo cheap in that Kingdom, there being ſo much more Land than Inhabitants. But alſo the Nobility and Gentry will not for many years to come be able to raiſe their Rents unto half the value their Eſtates yielded them of late years, except thoſe Farmers and Ploughmen of the <hi>Iriſh</hi> be taken into protection, and retained in their Dwelling and Occupations by a Declaration.</p>
+               <p>Secondly, A Declaration is neceſſary to aſſure the greateſt part of thoſe
+<pb n="2" facs="tcp:31602:2"/>who are in Arms, of mercy and protection on their ſubmiſſion, there being no Aſſurance now remaining to them from the Declaration of <hi>Feb.</hi> 22. 1685. which they rejected, and having no certainty of their lives, but that they may eſcape for their number, and they may not, but be deſtroyed, which they have deſerved. This uncertainty, and the guilt they have contracted by Robberies, <hi>&amp;c.</hi> will keep them in<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire in their reſiſtance to the la<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</p>
+               <p>Thirdly, A Declaration is neceſſary for the incouragement of the Prote<g ref="char:EOLhyphen"/>ſtants, that they may ſee His Majeſties care for their Restoration to their E<g ref="char:EOLhyphen"/>ſtates, and for ſome reparation for their loſſes, who otherwiſe are utterly conſumed and irreparably beggar'd, and in vain is it for ſuch to return and in<g ref="char:EOLhyphen"/>deavour to plant <hi>Ireland,</hi> but muſt continue Servants or Beggars here in <hi>England,</hi> except they are relieved and aſſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ted out of the forfeited Lands.</p>
+               <p>As to the ſecond Queſtion, I humbly conceive ſome inſtances of Juſtice muſt be made, and ſome o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Chief excepted from their Eſtates for theſe Reaſons.</p>
+               <p>Omitting ſeveral Arguments that have been diſcourſed of; as the reaſon<g ref="char:EOLhyphen"/>ableneſs of diſcouraging future Rebellions; and that this will not obtain the end intended, of reducing that Kingdom; for the Eſtated Men, who have armed all the reſt, may lay down their Arms, and others carry on the War with greater vigour, <hi>&amp;c.</hi> I humbly conceive,</p>
+               <p n="1">1. 'Tis not for the Kings Honour a ſecond time to proſtitute His Grace and Mercy in a general Offer, to all without exception.</p>
+               <p n="2">2. This His Majeſties Lenity will but make them more inſolent (as in all Ages) inſtances have been given, and more may, for let none perſwade the King that there ever was the leaſt ſpark of good Nature or Ingenuity appearing in the <hi>Iriſh</hi> Nation, or that any thing but the dread of a terrible re<g ref="char:EOLhyphen"/>venge from God and Man keeps thoſe Bloody <hi>Iriſh</hi> Papiſts from a general Maſſacre of all the Proteſtants within their power, or that they ever made other uſe of all the Grace and Favour by which they have had Honours and Eſtates conferr<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d upon them by the Crown of <hi>England</hi> (after they have been Conquered and Subdued; but to take hold of the firſt opportunity they ever have to murder and deſtroy the <hi>Engliſh</hi> and Proteſtants, and to caſt off the Government of <hi>England,</hi> and every time by a more univerſal and malicious Rebellion than the former, and they will conſtrue this to be out of fear, or the urgency of His Majeſties Affairs which proceeds from the greatneſs and goodneſs of His Royal Heart towards thoſe who have plung'd themſelves in this general Rebellion.</p>
+               <p n="3">3. If they are not now weaken'd in their Eſtates, and the Proteſtants by thoſe Eſtates in ſome meaſure repair'd and ſtrengthen'd; I mean thoſe who are conſumed by this late Rebellion (their ſubſtance for the moſt part conſiſt<g ref="char:EOLhyphen"/>ing in Stock) His Majeſties Revenue will not recover in many years ſuffici<g ref="char:EOLhyphen"/>ent to maintain an Army to defend that Kingdom: and next, no Militia will be to aſſiſt the ſtanding Army in that Countrey for many years.</p>
+               <p n="1">1. His Majeſties Revenue will not recover to any conſiderable degree for many years, for it was this ſort of <hi>Engliſh</hi> Farmers, who ſtock<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng their Land with Sheep and black Cattle, (as the <hi>Iriſh</hi> generally followed the Plough) traded with their Wooll, their Butter and Cheeſe, their Hides, Beef and Tal<g ref="char:EOLhyphen"/>low, which with Leather, are the ſtaple Commodities of the Kingdom, and the ſubject matter of the Trade and Exportations, which being anſwere with Importations of other Commodities of Wine, Cloth, Silk, Stuff, Grocery Wares, and other Goods from <hi>England,</hi> were the Fund of His Majeſties Revenue of the Cuſtoms and Exciſe, all which Goods for Exportation are conſumed by theſe Robbers, and the vaſt Armies rais'd in <hi>Ireland</hi> by <hi>Tyr<g ref="char:EOLhyphen"/>connel</hi> and his Adherents.</p>
+               <p>But may not this loſs be ſoon made up by others as <hi>Engliſh</hi> and <hi>Dutch? &amp;c.</hi>
+               </p>
+               <p>I anſwer, Strangers to the Countrey, and to the Nature of the Soyl, know
+<pb n="3" facs="tcp:31602:2"/>not how to turn them, they will find it difficult to pay the Quitrent or Crown Re<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in moſt places, it is grown into a Proverb, That a man muſt be undone in <hi>Ireland</hi> before he thrives, even thoſe who bring good Stocks with them out of <hi>England.</hi> So neceſſary is experience in the Climate, Soyl, Trade, Markets, manner of Liv<g ref="char:EOLhyphen"/>ing, <hi>&amp;c.</hi> beſides the right and property by Leaſe is Veſted in theſe conſumed and deſpoiled Proteſtants and thoſe of them who have not Leaſes of their Lands at ea<g ref="char:EOLhyphen"/>ſie Rents, ſuch as they way be able to raiſe out of their Farms, (when aſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed by the Forfeited Lands) will look upon themſelves as intituted in Conſcience and Equity to have preference to the Tenancy of their Lands and Abatements of their Rents to ſuch an eaſie rate as they may be able to pay the ſame, until the Kingdom be better planted, and Trade improved. Beſides <hi>French</hi> and <hi>Dutch</hi> are for Manu<g ref="char:EOLhyphen"/>factures, which is the Form of Trading, and moſt deſirable; but the<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e deſpoi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Proteſtants are converſant in Commodities that are the matter of Trade, and mat<g ref="char:EOLhyphen"/>ter muſt always of neceſſity precede form.</p>
+               <p n="2">2. Without theſe deſpoiled Proteſtants be aſſiſted by the Forfeited Lands in their Planting, and Stocking of the Countrey, there can be no conſiderable Militia in the Kingdom of <hi>Ireland</hi> for ſeveral years, (for theſe men the Body of the Mi<g ref="char:EOLhyphen"/>litia, and eſpecially of the Horſe, the Landed men were generally Officers theſe in one County made 22 or 23 Troops of Horſe, and throughout the Kingdom be<g ref="char:EOLhyphen"/>tween 4 and 5000 Horſe, beſides 13 or 14000 Foot; now inſtead of Horſe, Arms and Accoutrements, they want Bread, and will not have Shoes to walk on Foot, except aſſiſted and provided out of the Forfeited Lands.</p>
+               <p>The conſequence of this want of Revenue in <hi>Ireland,</hi> and of a conſiderable Mili<g ref="char:EOLhyphen"/>tia of the Inhabitants is evident, that the charge and burthen of an Army to retain that Kingdom (when 'tis gotten to the Crown of <hi>England,</hi> muſt wholly he upon the Kingdom of <hi>England,</hi> and this may bring His Majeſties Affairs into diſorder, and in a little time prove very burthenſome to the people of <hi>England;</hi> and as f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r want of a Revenue in <hi>Ireland, England</hi> muſt be at double the charge to pay the Ar<g ref="char:EOLhyphen"/>my in <hi>Ireland;</hi> So for want of the Militia, ſuch as formerly they h<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, the King muſt have double the number of men in the Standing Army to preſerve that King<g ref="char:EOLhyphen"/>dom; and in a word, the King muſt be at near four times more charge in maintain<g ref="char:EOLhyphen"/>ing His Army in <hi>Ireland,</hi> unleſs this courſe be taken in reſtoring and repairing the deſpoiled Proteſtants, and with them the Revenue and Militia of that Kingdom. Beſides as 'tis the beſt Husbandry in his Majeſty thus to diſpoſe of the Forfeited Lands, and will turn to His Majeſties great and ſpeedy advantage, ſo there is a kind of Juſtice that theſe conſumed Proteſtants ſhould be repair'd out of the Forfeited Lands to His Maieſty in this Rebellion. For this reaſon, that beſides they are the Martyrs and Sufferers for all the Proteſtants of the thee Kingdoms, they have been deſtroy'd by thoſe very men who were Owners of theſe Forfeited Lands; for they have armed the Souldiers and the Rabble, and incourag<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d them to Plunder and Rob, to provide for the Armies theſe Forfeiting Perſons rais'd, and undertook to maintain for three Months, and the only Fund they had for ſo doing was the Sub<g ref="char:EOLhyphen"/>ſtance and Stocks of theſe deſpoiled Proteſtants, now ſeeing the Proteſtants cannot Sue theſe Forfeiting Perſons at Law, or if they could, their Eſtates being Forfeit<g ref="char:EOLhyphen"/>ed cannot be liable to their Judgments and Executions in the Kings Hands can there be any thing more equitable, if not juſt, than that ſome reparation and ſatisfaction be made theſe deſpoiled Proteſtants out of the Eſtates of thoſe that ſpoiled them, <hi>&amp;c.</hi> From theſe conſiderations amongſt many others it appears 'tis neceſſary and juſt the King ſhould except the Chief and moſt Notorious of the <hi>Iriſh</hi> Rebels, or elſe theſe men ſhall have no Fund for any ſatisfaction, and next, that ſome part of the For<g ref="char:EOLhyphen"/>feited Lands as may be adviſed by Parliament may go towards ſuch their reparation. But who are thoſe moſt notorious Perſons? and why theſe named more than others?</p>
+               <p>I anſwer; The Lords of the Council publickly appointed the Lords &amp; Gentlemen of <hi>Ireland</hi> to bring in a Liſt, for that they beſt were acquainted with the perſons, and what they have done to deſerve to be excepted; hereupon theſe Lords and Gentle<g ref="char:EOLhyphen"/>men to the number of many Grand-juries have Publickly and Unanimouſly [two or three diſſenting] agreed to return this liſt, and have left out others, in order to raiſe a lealouſy amongſt them to the intent to divide them thereby, and thoſe who are omitted may be in a capacity to do conſiderable ſervice, to inſtance a few, the Earl of <hi>Clanrickard</hi> about <hi>Galway,</hi> the Earl of <hi>Tyrone</hi> about <hi>Waterford,</hi> Lord <hi>Brittas</hi> near <hi>Lymmerick,</hi> Lord <hi>Nettervil</hi> near <hi>Droghedah,</hi> and many more. They have named none but thoſe of whoſe carriage and deportment they have receive evidence from ſe<g ref="char:EOLhyphen"/>veral of their number and altho' his Majeſty and Council unto whom all muſt be
+<pb n="4" facs="tcp:31602:3"/>humbly ſubmitted, may omit all or alter them as they think fit, yet there ſeems theſe reaſons to the contrary, and to hold to this number in the preſented Liſt.</p>
+               <p>Firſt, It is moſt certain this work will never be ſo indifferently and impartially done again, either for his Majeſties ſervice, or general ſatisfaction: For that Liſt which was made immediately upon the Lords and Gentlemen parting from the Council-Chamber, was done without deſign, or particular pique; but thoſe who were named were known to all the Aſſembly to be the chief Ring-leaders in this miſchievous Rebellion, and their particular actions related by thoſe preſent, with<g ref="char:EOLhyphen"/>out any time to deliberate on any ſiniſter deſign.</p>
+               <p>Secondly, The King will avoid troubleſom Importunities, and thoſe about him undeſirable Reflections; and if the chiefeſt ſhould be omitted who have been moſt malicious and deſtructive of the Proteſtants, the ſame may be reſented by the Par<g ref="char:EOLhyphen"/>liament in <hi>Ireland,</hi> as a great Grievance, and beget ill Blood, if not troubleſom Re<g ref="char:EOLhyphen"/>monſtrances and Addreſſes.</p>
+               <p>To inſtance, the Two Chief amongſt them (next <hi>Tyrconnel</hi>) are the Earl of <hi>Clan<g ref="char:EOLhyphen"/>carty</hi> in the one end of <hi>Ireland,</hi> and the Earl of <hi>Antrim</hi> in the other; theſe two ha<g ref="char:EOLhyphen"/>ving the greateſt Eſtates, and the moſt Followers, and Dependants, and Tenants, have raiſed the moſt Men, and deſpoiled more of the Engliſh and Proteſtants than twenty others; and eſpecially the former. Now 'tis whiſper'd, this is a young Man, and hath an excellent Mother; his Mothers Eſtate will not be toucht; but he is not ſo young, but he has been guilty of a barbarous Murder; is an Apoſtate from his Religion that he was bred in under his good Mother and the Biſhop of <hi>Oxford;</hi> has followed his grand Father; &amp; his Uncle, and exceeded them in their perſecution and deſtruction of the Proteſtants, meerly for being Proteſtants. Theſe Families were the chief Actors in the bloody and fatal Rebellion in 1641 have receiv'd Honours &amp; Eſtates ſince more than their own, and are capable at any time to do more miſchief than 20 other Noblemen who may be named; and ſhall their Malice and Cruelty be let looſe a third time to worry the Proteſtants, and manage another Rebellion with<g ref="char:EOLhyphen"/>in the memory of Man? God forbid, may the King forbid it, and the Lords of his Council, and all good Proteſtants muſt needs ſay, <hi>Amen.</hi> To conclude that I may keep within the bounds of a letter to may obſervation, this is the Univerſal Groan of the Proteſtant Nobility and Gentry of <hi>Ireland,</hi> and I make no doubt but in all the applications and importunities in favour of the Iriſh, his Majeſty will remember this one great and neceſſary Truth;</p>
+               <p>That if the King and his Council <hi>[upon this General Rebellion and Univerſal Revolt from the Crown of England]</hi> do not take the Advantage effectually to weaken the Iriſh Popiſh Intereſt in <hi>Ireland;</hi>
+               </p>
+               <p>The Proteſtants there will ever hereafter live in extreameſt dread and danger, and conſequently none will reſide there who can have Bread in any other Country with ſecurity, and the King and Kingdom of <hi>England</hi> be never freed from infinite CHARGE and TROUBLE, infinite EXPENCE of BLOOD and TREASURE, by which the whole Proteſtant Intereſt will be s;o effectually weakened, that it will be ALWAYS in hazard of a TOTAL Subverſion and Deſtruction. <hi>Yours,</hi> &amp;c.</p>
+               <p>Since the writing this Letter, I met with a Pamphlet (Licenſed the 30th of <hi>Auguſt</hi>) with an Immodeſt Reflection on the Lords and Gentlemen, to whom the forming of a Declaration was referr'd, which if it be not an Arrow drawn out of a Popiſh Quiver, 'tis feather'd with Pride and ill Nature.</p>
+               <p>And how frivolous is that Exception, that they have not conſulted thoſe Noble<g ref="char:EOLhyphen"/>men and Gentlemen of <hi>Ireland,</hi> who are now hazarding their Lives in that ſervice; it being impoſſible to conſult their perſons? 'Tis evident they have their Intereſt; for who will be ſo deſirous as thoſe honourable Lords and Gentlemen, to gain ſome Intereſt in <hi>Ireland</hi> worthy their great hazards; or who have more reaſon than the Parliament and People of <hi>England,</hi> to expect ſome further Aſſurance of that King<g ref="char:EOLhyphen"/>dom that may be worthy of their vaſt Expence of Blood and Treaſure? And would not (as our Reflector) that the Iriſh inricht and made ſtrong with the Spoils of the Proteſtants (the greateſt number of whom they have utterly beggar'd) may have it in their power to lay down for the preſent, and take up their Arms again as ſoon as the French, on pretence of the late King, or the Prince of <hi>Wales</hi> may offer an opportunity; and then all the Hazards, Charges and Expences will be caſt away to no purpoſe, as often heretofore has been: After which the Proteſtant Intereſt muſt again win <hi>Ireland,</hi> whatever it coſt, of loſe <hi>England.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Publiſhed by <hi>Rich. Janeway</hi> in <hi>Queens-Head-Ally</hi> in <hi>Pater-Noſter-Row,</hi> 1689.</p>
+            <pb facs="tcp:31602:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
